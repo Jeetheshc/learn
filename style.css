@@ -1,0 +1,166 @@
+/* General Styles */
+body {
+  font-family: 'Nunito', sans-serif;
+}
+
+.navbar {
+  background-color: #FEFCEC;
+}
+
+.navbar-brand {
+  font-weight: 800;
+}
+
+.logo1 {
+  font-family: 'Rubik', sans-serif;
+  font-size: 17px;
+}
+
+.l1 {
+  font-weight: 800;
+}
+
+.l2 {
+  color: #FDC04E;
+  font-weight: 800;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+}
+
+.nav-item {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.nav-link {
+  color: black;
+  font-weight: normal;
+}
+
+.home-link {
+  font-weight: bold;
+  color: black;
+}
+
+.ms-auto {
+  margin-left: auto;
+}
+
+.registerbutton {
+  padding: .5rem 1.5rem;
+  border: 3px solid #FDC04E;
+  border-radius: 50px;
+  background-color: #FEFCEC;
+}
+
+.btnJourney {
+  padding: .5rem 1.5rem;
+  border: none;
+  background-color: #FDC04E;
+  border-radius: 50px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+}
+
+.btnLearn {
+  padding: .5rem 1.5rem;
+  border: 1px solid #FDC04E;
+  background-color: #FEFCEC;
+  border-radius: 50px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+}
+
+.bigHeading {
+  font-weight: 800;
+  font-size: 3rem;
+}
+
+.brandLogo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.brandLogo img {
+  max-width: 150px;
+  margin: 10px;
+}
+
+.img3 {
+  width: 100px;
+  height: 100px;
+}
+
+.learnMore {
+  color: #FDC04E;
+}
+
+.enroll-button {
+  padding: .5rem 1.5rem;
+  border: 2px solid #FDC04E;
+  background-color: #FEFCEC;
+  border-radius: 50px;
+}
+
+.colored-section {
+  background-color: #FEFCEC;
+}
+
+#instructorHeading {
+  font-weight: 700;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.featuresMain .card {
+  margin-bottom: 1.5rem;
+}
+
+.heroImage {
+  width: 100%;
+}
+
+.brandDescription {
+  text-align: center;
+}
+
+.discover {
+  text-align: center;
+}
+
+.collection .card {
+  border: none;
+}
+
+.collection .card-img-top {
+  border-radius: 1rem;
+}
+
+.card-title {
+  font-size: 1.5rem;
+}
+
+.card-text {
+  color: #6c757d;
+}
+.trailButton {
+  font-family: "Nunito", sans-serif;
+  padding: .5rem 1.5rem;
+  border: 1px solid #FDC04E;
+  background-color: #FEFCEC;
+  border-radius: 50px;
+  font-weight: 700;
+}
